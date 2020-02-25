@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\moham\downloads\compatitive programming\problemsolving\first_day\boyorgirl\source.cpp(12): warning C4018: '<': signed/unsigned mismatch
+  BoyOrGirl.vcxproj -> C:\Users\moham\Downloads\compatitive programming\ProblemSolving\first_day\Debug\BoyOrGirl.exe
+  BoyOrGirl.vcxproj -> C:\Users\moham\Downloads\compatitive programming\ProblemSolving\first_day\Debug\BoyOrGirl.pdb (Full PDB)
