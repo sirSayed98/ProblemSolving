@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "second_day", "second_day\second_day.vcxproj", "{564E75F3-035D-4E4D-915D-BA368D7A99C7}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "colored_stones", "second_day\second_day.vcxproj", "{564E75F3-035D-4E4D-915D-BA368D7A99C7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StoneOntable", "StoneOntable\StoneOntable.vcxproj", "{502476BA-E361-495E-81A8-7BFFB71E98D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{564E75F3-035D-4E4D-915D-BA368D7A99C7}.Release|x64.Build.0 = Release|x64
 		{564E75F3-035D-4E4D-915D-BA368D7A99C7}.Release|x86.ActiveCfg = Release|Win32
 		{564E75F3-035D-4E4D-915D-BA368D7A99C7}.Release|x86.Build.0 = Release|Win32
+		{502476BA-E361-495E-81A8-7BFFB71E98D1}.Debug|x64.ActiveCfg = Debug|x64
+		{502476BA-E361-495E-81A8-7BFFB71E98D1}.Debug|x64.Build.0 = Debug|x64
+		{502476BA-E361-495E-81A8-7BFFB71E98D1}.Debug|x86.ActiveCfg = Debug|Win32
+		{502476BA-E361-495E-81A8-7BFFB71E98D1}.Debug|x86.Build.0 = Debug|Win32
+		{502476BA-E361-495E-81A8-7BFFB71E98D1}.Release|x64.ActiveCfg = Release|x64
+		{502476BA-E361-495E-81A8-7BFFB71E98D1}.Release|x64.Build.0 = Release|x64
+		{502476BA-E361-495E-81A8-7BFFB71E98D1}.Release|x86.ActiveCfg = Release|Win32
+		{502476BA-E361-495E-81A8-7BFFB71E98D1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
