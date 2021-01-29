@@ -1,11 +1,16 @@
-/** 
- * https://www.youtube.com/watch?v=dT6dvdbpChA&list=PLEJXowNB4kPxBwaXtRO1qFLpCzF75DYrS&index=5
+/**
+ * @file 01Knapsack.cpp
+ * @author your name (mohamed sayed)
+ * @brief  this is 0/1 knapsack problem using top-down approach
+ * @version 0.1
+ * @date 2021-01-29
+ * @resouces
+ *      https://www.youtube.com/watch?v=dT6dvdbpChA&list=PLEJXowNB4kPxBwaXtRO1qFLpCzF75DYrS&index=5
+ *      https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
+ * @copyright Copyright (c) 2021
  * 
- * https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
-*/
+ */
 
-// Here is the top-down approach of
-// dynamic programming
 #include <bits/stdc++.h>
 using namespace std;
 
