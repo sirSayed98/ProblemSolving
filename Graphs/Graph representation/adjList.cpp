@@ -1,5 +1,7 @@
 /** 
- * Adjacency matrix represntation
+ * Adjacency List represntation
+ * 
+ * @href: https://www.geeksforgeeks.org/graph-and-its-representations/ 
 */
 
 
