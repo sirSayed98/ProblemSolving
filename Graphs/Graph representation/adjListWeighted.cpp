@@ -29,11 +29,10 @@ void printGraph(vector<pair<int, int>> adj[], int V)
     for (int u = 0; u < V; u++)
     {
         cout << "Node " << u << " makes an edge with \n";
-        for (auto it = adj[u].begin(); it != adj[u].end(); it++)
-        {
-            v = it->first;
-            w = it->second;
-            cout << "\tNode " << v << " with edge weight ="
+        for (int i = 0; i < adj[u].size(); i++){
+            v=adj[u][i].first;
+            w=adj[u][i].second;
+              cout << "\tNode " << v << " with edge weight ="
                  << w << "\n";
         }
         cout << "\n";

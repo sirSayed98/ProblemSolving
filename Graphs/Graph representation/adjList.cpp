@@ -25,9 +25,13 @@ void printGraph(vector<int> adj[], int V)
 	{ 
 		cout << "\n Adjacency list of vertex "
 			<< v << "\n head "; 
-		for (auto x : adj[v]) 
-		cout << "-> " << x; 
+		
+		for (size_t i = 0; i < adj[v].size(); i++)
+		{
+			cout<< "-> " <<adj[v][i]<<" ";
+		} 
 		printf("\n"); 
+		
 	} 
 } 
 
